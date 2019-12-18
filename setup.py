@@ -30,7 +30,7 @@ LICENSE = about['__license__']
 
 # What packages are required for this module to be executed?
 REQUIRED = [
-    'requests'
+    'requests_oauthlib'
 ]
 
 # What packages are optional?
